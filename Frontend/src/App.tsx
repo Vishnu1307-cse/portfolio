@@ -5,7 +5,7 @@ import { About } from "./components/About";
 import { Projects } from "./components/Projects";
 import { Contact } from "./components/Contact";
 import { SplashScreen } from "./components/SplashScreen";
-import { Skills } from "./components/skills";
+import { Skills } from "./components/Skills";
 
 export default function App() {
   const [loading, setLoading] = useState(true);
