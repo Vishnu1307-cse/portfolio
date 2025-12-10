@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Online Shopping App (E-Commerce)",
+    "about": "A full-stack CRUD-based shopping application where users can browse, add, edit, and delete items. Includes product storage, user management, and a responsive UI for seamless navigation.",
+    "github": "https://github.com/Vishnu1307-cse/ONLINE-SHOPPING_APP", 
+    "tools": ["MongoDB", "Express.js", "React", "Node.js", "Chakra UI"]
+  },
+  {
+    "title": "Expense Monitor",
+    "about": "A multi-user CRUD application for tracking, updating, and analyzing personal expenses. Features secure user-specific data management and a responsive interface.",
+    "github": "https://github.com/Vishnu1307-cse/Expense-Monitor",
+    "tools": ["SQLite", "Ruby", "Ruby on Rails", "Bootstrap CSS"]
+  },
+  {
+    "title": "Movie Reviews App",
+    "about": "A complete movie browsing and review management system with CRUD features, RESTful APIs, and a clean, responsive UI.",
+    "github": "https://github.com/Vishnu1307-cse/MovieApp",
+    "tools": ["HTML", "CSS", "Node.js", "Express.js", "MongoDB"]
+  },
+  {
+    "title": "Video Game Purchase App",
+    "about": "A game search and recommendation system simulating a Steam-like experience. Implements AVL Trees, Graphs, Heaps, and a Trie-based autocomplete/autocorrect system for efficient search and ranking.",
+    "github": "https://github.com/Vishnu1307-cse/DSA-Project",
+    "tools": ["Python", "Data Structures", "Algorithms"]
+  },
+  {
+  "title": "Think Board",
+  "about": "A MERN-based notes application designed for fast, minimal, and distraction-free note-taking. Features real-time CRUD operations, organized note management, and a clean UI focused on productivity.",
+  "github": "https://github.com/Vishnu1307-cse/Think-Board",
+  "tools": ["MongoDB", "Express.js", "React", "Node.js"]
+  },
+  {
+  "title": "Rocket Animation",
+  "about": "A C++ and OpenGL-based graphics project that animates a rocket using classic computer graphics algorithms, including Bresenham’s line drawing, scanline polygon fill, Cohen–Sutherland line clipping, and various 2D transformations.",
+  "github": "https://github.com/Vishnu1307-cse/Rocket_Animation",
+  "tools": ["C++", "OpenGL", "Computer Graphics Algorithms"]
+}
+]
