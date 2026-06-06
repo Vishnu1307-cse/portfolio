@@ -1,38 +1,39 @@
 [
   {
-    "title": "Online Shopping App (E-Commerce)",
-    "about": "A full-stack CRUD-based shopping application where users can browse, add, edit, and delete items. Includes product storage, user management, and a responsive UI for seamless navigation.",
-    "github": "https://github.com/Vishnu1307-cse/ONLINE-SHOPPING_APP", 
-    "tools": ["MongoDB", "Express.js", "React", "Node.js", "Chakra UI"]
+    "title": "Steam Clone (Game Purchase Platform)",
+    "about": "Built a Steam-inspired game purchasing platform using the MERN stack with game browsing, downloads, admin approval workflows, and MongoDB persistence. Implemented RBAC, JWT authentication with AES encryption, email-based OTP (2FA), and protected frontend routes. Enhanced security using RSA digital signatures, bcrypt hashing, SHA-256 token storage, audit logging, and middleware-based access control.",
+    "github": "https://github.com/Vishnu1307-cse/Steam_clone_frontend",
+    "github_backend": "https://github.com/Vishnu1307-cse/Steam_clone_backend",
+    "tools": ["MongoDB", "Express.js", "React", "Node.js", "JWT", "AES/RSA", "2FA"]
+  },
+  {
+    "title": "Personal Bookmarks Chrome Extension",
+    "about": "Developed a Chrome extension for capturing and managing bookmarks through manual entry and active-tab extraction. Integrated Chrome Tabs API and localStorage for persistent bookmark storage and retrieval. Built a dynamic user interface using DOM manipulation, event-driven programming, and Chrome extension architecture.",
+    "github": "https://github.com/Vishnu1307-cse/Personal_Bookmarks_Extension",
+    "tools": ["JavaScript", "Chrome API", "HTML", "CSS", "Local Storage"]
   },
   {
     "title": "Expense Monitor",
-    "about": "A multi-user CRUD application for tracking, updating, and analyzing personal expenses. Features secure user-specific data management and a responsive interface.",
+    "about": "Built a multi-user expense tracking application using Ruby on Rails MVC architecture with SQLite persistence. Developed responsive dashboards and expense categorization features for tracking spending patterns. Implemented CRUD workflows, server-side validations, and user-specific account management.",
     "github": "https://github.com/Vishnu1307-cse/Expense-Monitor",
-    "tools": ["SQLite", "Ruby", "Ruby on Rails", "Bootstrap CSS"]
+    "tools": ["Ruby on Rails", "SQLite", "Bootstrap", "Ruby"]
   },
   {
-    "title": "Movie Reviews App",
-    "about": "A complete movie browsing and review management system with CRUD features, RESTful APIs, and a clean, responsive UI.",
-    "github": "https://github.com/Vishnu1307-cse/MovieApp",
-    "tools": ["HTML", "CSS", "Node.js", "Express.js", "MongoDB"]
+    "title": "Online Shopping App (E-Commerce)",
+    "about": "A full-stack CRUD-based shopping application where users can browse, add, edit, and delete items. Features product database integration, responsive dashboard UI, and custom category filtering.",
+    "github": "https://github.com/Vishnu1307-cse/ONLINE-SHOPPING_APP",
+    "tools": ["MongoDB", "Express.js", "React", "Node.js", "Chakra UI"]
   },
   {
-    "title": "Video Game Purchase App",
-    "about": "A game search and recommendation system simulating a Steam-like experience. Implements AVL Trees, Graphs, Heaps, and a Trie-based autocomplete/autocorrect system for efficient search and ranking.",
-    "github": "https://github.com/Vishnu1307-cse/DSA-Project",
-    "tools": ["Python", "Data Structures", "Algorithms"]
+    "title": "Think Board",
+    "about": "A MERN-based notes application designed for fast, minimal, and distraction-free note-taking. Features real-time CRUD operations, organized note management, and a clean UI focused on productivity.",
+    "github": "https://github.com/Vishnu1307-cse/Think-Board",
+    "tools": ["MongoDB", "Express.js", "React", "Node.js"]
   },
   {
-  "title": "Think Board",
-  "about": "A MERN-based notes application designed for fast, minimal, and distraction-free note-taking. Features real-time CRUD operations, organized note management, and a clean UI focused on productivity.",
-  "github": "https://github.com/Vishnu1307-cse/Think-Board",
-  "tools": ["MongoDB", "Express.js", "React", "Node.js"]
-  },
-  {
-  "title": "Rocket Animation",
-  "about": "A C++ and OpenGL-based graphics project that animates a rocket using classic computer graphics algorithms, including Bresenham’s line drawing, scanline polygon fill, Cohen–Sutherland line clipping, and various 2D transformations.",
-  "github": "https://github.com/Vishnu1307-cse/Rocket_Animation",
-  "tools": ["C++", "OpenGL", "Computer Graphics Algorithms"]
-}
+    "title": "Rocket Animation",
+    "about": "A C++ and OpenGL-based graphics project that animates a rocket using classic computer graphics algorithms, including Bresenham’s line drawing, scanline polygon fill, Cohen–Sutherland line clipping, and 2D transformations.",
+    "github": "https://github.com/Vishnu1307-cse/Rocket_Animation",
+    "tools": ["C++", "OpenGL", "Computer Graphics"]
+  }
 ]
